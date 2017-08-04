@@ -25,6 +25,7 @@ public class HomePage
 	public void clickOnsignInButton()
 	{
 		SigninLink.click();
+		/* this is click the sihnin link */
 	}
 	
 	public void clickOnmyAccount()
